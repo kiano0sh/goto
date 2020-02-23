@@ -1,6 +1,7 @@
 "use strict"
 
 module.exports = (event, context) => {
+
     
     let redirect;
     /* Use a switch statement, or look up the routes in a database
