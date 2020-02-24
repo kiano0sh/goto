@@ -1,8 +1,6 @@
 "use strict"
 
 module.exports = (event, context) => {
-
-    
     let redirect;
     /* Use a switch statement, or look up the routes in a database
      * such as MongoDB, Redis or Postgres. AWS and DigitalOcean provide
