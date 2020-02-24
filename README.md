@@ -1,2 +1,2 @@
 # goto
-bluh bluh
+test 0
